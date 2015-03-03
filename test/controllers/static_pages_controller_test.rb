@@ -26,3 +26,5 @@ class StaticPagesControllerTest < ActionController::TestCase
     assert_select "title", "Contact | Ruby on Rails Tutorial Sample App"
   end
 end
+
+
